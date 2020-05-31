@@ -1,6 +1,0 @@
-This is my first file.
-<<<<<<< HEAD
-We are all Indians.
-Pakistan Murdabaad !!!
-=======
->>>>>>> parent of a1d87a1...  this is my second commit
