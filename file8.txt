@@ -1,0 +1,3 @@
+stat4
+stat5
+stat6
