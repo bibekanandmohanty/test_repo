@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 stat1
 stat2
 stat2
 stat2
 stat2
+=======
+stat4
+stat5
+stat6
+>>>>>>> branch2
