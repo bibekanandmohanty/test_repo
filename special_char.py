@@ -1,1 +1,5 @@
 print("Welcome 2 python scripting .\nWe are working with some special chars")
+print("Welcome 2 python scripting .\bWe are working with some special chars")
+print("Hello World\b\bWe are working with some special chars")
+print("Hello World\t\tWe are working with some special chars")
+print('ppython\'s class')
