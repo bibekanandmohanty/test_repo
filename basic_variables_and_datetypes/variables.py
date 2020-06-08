@@ -11,7 +11,7 @@ print(type(a))
 print(type(b))
 #Redeclare a variable
 a=23
-prrint(a)
+print(a)
 a=10
 print(a)
 #Delete a variable
