@@ -2,5 +2,10 @@
 # No need to declare varables before using them.
 # That is why it is called dynamically typed program.
 a=10
+b=10.5
 print(a)
+print(b)
+
 # Dont use quotes around the var name otherwise it will print as it is.
+print(type(a))
+print(type(b))
