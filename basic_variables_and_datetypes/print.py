@@ -1,4 +1,4 @@
-x==3
+x=3
 y=5.7
 my_name="bibekanand"
 my_lang="python"
