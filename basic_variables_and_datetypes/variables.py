@@ -9,3 +9,11 @@ print(b)
 # Dont use quotes around the var name otherwise it will print as it is.
 print(type(a))
 print(type(b))
+#Redeclare a variable
+a=23
+prrint(a)
+a=10
+print(a)
+#Delete a variable
+del a
+print(a)
