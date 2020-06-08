@@ -16,4 +16,10 @@ a=10
 print(a)
 #Delete a variable
 del a
-print(a)
+#Rules to define a variable
+#1. contains letters,numbers and underscore
+#2. should not be a keyword like if,print,etc.....
+#3. can't contain a space , if u require a space then replace with a underscore
+#4. should not start with a number
+#5. name of variable is case-sensitive.
+#6. can start a variable name with _.
