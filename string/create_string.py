@@ -28,5 +28,5 @@ print(my_fav_script[-16:-5])
 test1="bibek"
 test2="mohanty"
 space=" "
-add_test=test1+" "+test2+"is very handsome"
+add_test=test1+" "+test2+space +"is very handsome"
 print(add_test)
