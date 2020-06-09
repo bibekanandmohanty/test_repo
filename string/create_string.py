@@ -25,4 +25,7 @@ mystringlen=len(my_fav_script)
 print(f"length of the given string is : {len(my_fav_script)}")
 print(my_fav_script[-16:-5])
 
-
+test=bibek
+test1=mohanty
+space=" "
+add_test=test1+" "+test2+"is very handsome"
