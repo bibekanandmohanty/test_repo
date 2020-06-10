@@ -1,4 +1,4 @@
-test="bibekanand mohanty"
+test1="bibekanand mohanty"
 print(test1.upper())
 print(test1.lower())
 print(test1.swapcase())
