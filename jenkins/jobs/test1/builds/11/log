@@ -1,0 +1,19 @@
+Started by timer
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test1
+No credentials specified
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/bibekanandmohanty/test_repo.git # timeout=10
+Fetching upstream changes from https://github.com/bibekanandmohanty/test_repo.git
+ > git --version # timeout=10
+ > git fetch --tags --progress https://github.com/bibekanandmohanty/test_repo.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 0980dca24f5bfa0ef41e16722c01b8c9359a643e (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 0980dca24f5bfa0ef41e16722c01b8c9359a643e # timeout=10
+Commit message: "no comments"
+ > git rev-list --no-walk 0980dca24f5bfa0ef41e16722c01b8c9359a643e # timeout=10
+[test1] $ /bin/sh -xe /tmp/jenkins4251286752463568274.sh
+Finished: SUCCESS
